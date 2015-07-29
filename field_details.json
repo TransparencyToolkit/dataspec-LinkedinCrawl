@@ -1,0 +1,241 @@
+[
+  {
+    "Field Name": "name",
+    "Human Readable Name": "Name",
+    "Type": "String",
+    "Form Params": "name",
+    "Location": "0",
+    "Display Type": "Title",
+    "Icon": ""
+  },{
+    "Field Name": "company",
+    "Human Readable Name": "Company",
+    "Type": "String",
+    "Form Params": "company",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Location": "1",
+    "Icon": "building"
+  },{
+    "Field Name": "title",
+    "Human Readable Name": "Job Title",
+    "Type": "String",
+    "Form Params": "title",
+    "Display Type": "Short Text",
+    "Mapping": "english",
+    "Location": "2",
+    "Icon": ""
+  },{
+    "Field Name": "start_date",
+    "Human Readable Name": "Start Date",
+    "Type": "Date",
+    "Display Type": "Date",
+    "Mapping": "not_analyzed",
+    "Form Params": [
+      "start_date",
+      "end_start_date"
+    ],
+    "Location": "3",
+    "Icon": ""
+  },{
+    "Field Name": "end_date",
+    "Human Readable Name": "End Date",
+    "Type": "Date",
+    "Display Type": "Date",
+    "Mapping": "not_analyzed",
+    "Form Params": [
+      "end_date",
+      "end_end_date"
+    ],
+    "Location": "4",
+    "Icon": ""
+  },{
+    "Field Name": "location",
+    "Human Readable Name": "Location",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "location",
+    "Location": "5",
+    "Icon": "countries"
+  },{
+    "Field Name": "area",
+    "Human Readable Name": "Area",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "area",
+    "Location": "6",
+    "Icon": "countries"
+  },{
+    "Field Name": "industry",
+    "Human Readable Name": "Industry",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "industry",
+    "Location": "7",
+    "Icon": "industry"
+  },{
+    "Field Name": "description",
+    "Human Readable Name": "Description",
+    "Type": "String",
+    "Display Type": "Description",
+    "Mapping": "english",
+    "Form Params": "description",
+    "Location": "8",
+    "Truncate": "200",
+    "Icon": ""
+  },{
+    "Field Name": "skills",
+    "Human Readable Name": "Skills",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "skills",
+    "Location": "9",
+    "Icon": "work"
+  },{
+    "Field Name": "certifications",
+    "Human Readable Name": "Certifications",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "certifications",
+    "Location": "11",
+    "Icon": "certificate"
+  },{
+    "Field Name": "picture",
+    "Human Readable Name": "Picture",
+    "Type": "String",
+    "Display Type": "Picture",
+    "Mapping": "not_analyzed",
+    "Form Params": "picture",
+    "Location": "15",
+    "Icon": ""
+  },{
+    "Field Name": "websites",
+    "Human Readable Name": "Websites",
+    "Type": "String",
+    "Display Type": "Link",
+    "Mapping": "not_analyzed",
+    "Form Params": "websites",
+    "Location": "16",
+    "Icon": ""
+  },{
+    "Field Name": "profile_url",
+    "Human Readable Name": "Profile URL",
+    "Type": "String",
+    "Display Type": "Link",
+    "Mapping": "not_analyzed",
+    "Form Params": "profile_url",
+    "Location": "17",
+    "Link": "mult_items",
+    "Icon": ""
+  },{
+    "Field Name": "current",
+    "Human Readable Name": "Current Position",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "not_analyzed",
+    "Form Params": "current",
+    "Location": "18",
+    "Icon": "briefcase"
+  },{
+    "Field Name": "linkedin_company_url",
+    "Human Readable Name": "Company URL",
+    "Type": "String",
+    "Display Type": "Link",
+    "Mapping": "not_analyzed",
+    "Form Params": "linkedin_company_url",
+    "Location": "19",
+    "Icon": ""
+  },{
+    "Field Name": "url",
+    "Human Readable Name": "URL",
+    "Type": "String",
+    "Display Type": "Link",
+    "Mapping": "not_analyzed",
+    "Form Params": "url",
+    "Location": "20",
+    "Icon": ""
+  },{
+    "Field Name": "website",
+    "Human Readable Name": "Website",
+    "Type": "String",
+    "Display Type": "Link",
+    "Mapping": "not_analyzed",
+    "Form Params": "website",
+    "Location": "21",
+    "Icon": ""
+  },{
+    "Field Name": "type",
+    "Human Readable Name": "Type",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "type",
+    "Location": "22",
+    "Icon": "agencies"
+  },{
+    "Field Name": "company_size",
+    "Human Readable Name": "Company Size",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "not_analyzed",
+    "Form Params": "company_size",
+    "Location": "23",
+    "Icon": ""
+  },{
+    "Field Name": "address",
+    "Human Readable Name": "Company Address",
+    "Type": "String",
+    "Display Type": "",
+    "Mapping": "english",
+    "Form Params": "address",
+    "Location": "24",
+    "Icon": ""
+  },{
+    "Field Name": "founded",
+    "Human Readable Name": "Company Founded",
+    "Type": "Date",
+    "Display Type": "Category",
+    "Mapping": "not_analyzed",
+    "Form Params": [
+      "founded_start_date",
+      "founded_end"
+    ],
+    "Location": "25",
+    "Icon": ""
+  },{
+    "Field Name": "timestamp",
+    "Human Readable Name": "Timestamp",
+    "Type": "Date",
+    "Display Type": "Date",
+    "Mapping": "not_analyzed",
+    "Form Params": [
+      "timestamp_start",
+      "timestamp_end"
+    ],
+    "Location": "26",
+    "Icon": ""
+  },{
+    "Field Name": "degree",
+    "Human Readable Name": "Degree",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "not_analyzed",
+    "Form Params": "degree",
+    "Location": "28",
+    "Icon": "shared-with"
+  },{
+    "Field Name": "score",
+    "Human Readable Name": "Score",
+    "Type": "String",
+    "Display Type": "",
+    "Mapping": "not_analyzed",
+    "Form Params": "score",
+    "Location": "29",
+    "Icon": ""
+  }
+]
