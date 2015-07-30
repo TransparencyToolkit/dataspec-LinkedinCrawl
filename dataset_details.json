@@ -1,6 +1,6 @@
 {
   "Path Type": "Directory",
-  "Path": "../ICWATCH-data/second-set/",
+  "Path": "../../ICWATCH-Data/data/second_set",
   "Index Name": "icwatch",
   "Ignore Dir Import Ext": "_terms.json",
   "Sort Field": ""
