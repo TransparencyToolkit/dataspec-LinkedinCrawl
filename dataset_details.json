@@ -3,5 +3,6 @@
   "Path": "../../ICWATCH-Data/data/second_set",
   "Index Name": "icwatch",
   "Ignore Dir Import Ext": "_terms.json",
-  "Sort Field": ""
+  "Sort Field": "",
+  "Show Sort Field": "start_date"
 }
