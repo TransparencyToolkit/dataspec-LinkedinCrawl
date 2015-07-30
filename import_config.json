@@ -2,7 +2,7 @@
   "Synonym List": "app/synonyms/ic_synonyms",
   "Ignore List": "",
   "ID Field": "profile_url",
-  "Secondary ID": [],
+  "Secondary ID": ["company", "title", "start_date"],
   "Deduplicate Ignore": ["timestamp", "categories", "dataset_name", "summary", "score", "degree"],
   "Deduplicate Prioritize": "timestamp",
   "Get ID After": "linkedin.com/pub"
