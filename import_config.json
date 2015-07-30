@@ -1,9 +1,9 @@
 {
   "Synonym List": "app/synonyms/ic_synonyms",
   "Ignore List": "",
-  "ID Field": "title",
+  "ID Field": "profile_url",
   "Secondary ID": ["released_date"],
-  "Deduplicate Ignore": [],
-  "Deduplicate Prioritize": "released_date",
+    "Deduplicate Ignore": ["timestamp", "categories", "dataspec_name", "summary", "score", "degree"],
+  "Deduplicate Prioritize": "timestamp",
   "Get ID After": ""
 }
