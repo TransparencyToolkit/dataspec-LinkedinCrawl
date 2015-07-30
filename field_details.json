@@ -237,5 +237,14 @@
     "Form Params": "score",
     "Location": "29",
     "Icon": ""
-  }
+  },{
+      "Field Name": "dataset_name",
+      "Human Readable Name": "Search Terms",
+      "Type": "String",
+      "Display Type": "Category",
+      "Mapping": "not_analyzed",
+      "Form Params": "dataset_name",
+      "Location": "28",
+      "Icon": "document-topic"
+  } 
 ]

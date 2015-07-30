@@ -8,7 +8,7 @@
     "certifications",
     "current",
     "type",
-    "degree"
+    "dataset_name"
 	],
   "Searchable": [
     "name",
@@ -45,7 +45,8 @@
     "founded",
     "timestamp",
     "degree",
-    "score"
+      "score",
+      "dataset_name"
 	],
   "In Search Results by Default": [
     "name",
@@ -57,7 +58,8 @@
     "area",
     "industry",
     "description",
-    "skills"
+      "skills",
+      "dataset_name"
   ],
   "On Doc Page": [
     "name",
@@ -84,7 +86,8 @@
     "founded",
     "timestamp",
     "degree",
-    "score"
+      "score",
+      "dataset_name"
   ],
   "Item Field": [
     "company",
