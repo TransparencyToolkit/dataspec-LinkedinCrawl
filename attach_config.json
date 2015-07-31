@@ -1,6 +1,7 @@
 {
+  "Image Path Prefix": "https://transparencytoolkit.org/icwatchpics/",
   "Show PDF?": "No",
-  "File Path Prefix": "https://transparencytoolkit.org/icwatch/images/",
+  "File Path Prefix": "",
   "File Path Attr": "",
   "Show Webpage?": "No",
   "Web URL": "profile_url"
