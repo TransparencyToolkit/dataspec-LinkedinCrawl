@@ -1,7 +1,8 @@
 {
   "Path Type": "Directory",
-  "Path": "../../ICWATCH-Data/data/second_set",
-  "Index Name": "icwatch",
+  "Path": "/home/gh/test_data/li/",
+  "Index Name": "icwatch_linkedin_test",
+  "Dataset Name": "LinkedIn",
   "Ignore Dir Import Ext": "_terms.json",
   "Sort Field": "",
   "Show Sort Field": "start_date"
