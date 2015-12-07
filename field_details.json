@@ -1,9 +1,9 @@
 [
   {
-    "Field Name": "name",
+    "Field Name": "full_name",
     "Human Readable Name": "Name",
     "Type": "String",
-    "Form Params": "name",
+    "Form Params": "full_name",
     "Location": "0",
     "Display Type": "Title",
     "Icon": ""
