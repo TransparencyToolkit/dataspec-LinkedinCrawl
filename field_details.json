@@ -246,5 +246,15 @@
       "Form Params": "dataset_name",
       "Location": "28",
       "Icon": "document-topic"
-  } 
+  },
+    {
+	"Field Name": "doc_modified",
+	"Human Readable Name": "Modified?",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "not_analyzed",
+	"Form Params": "doc_modified",
+	"Location": "28",
+	"Icon": "document-topic"
+    }
 ]

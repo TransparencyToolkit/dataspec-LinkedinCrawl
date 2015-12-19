@@ -3,7 +3,7 @@
   "Ignore List": "",
   "ID Field": "profile_url",
   "Secondary ID": ["company", "title", "start_date"],
-  "Deduplicate Ignore": ["timestamp", "categories", "dataset_name", "summary", "score", "degree"],
-  "Deduplicate Prioritize": "timestamp",
+    "Deduplicate Ignore": ["timestamp", "categories", "dataset_name", "summary", "score", "degree", "doc_modified"],
+    "Deduplicate Prioritize": "timestamp",
   "Get ID After": "linkedin.com/pub"
 }

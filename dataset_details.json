@@ -1,7 +1,7 @@
 {
   "Path Type": "Directory",
-  "Path": "/home/gh/test_data/li/",
-  "Index Name": "icwatch_linkedin_test",
+  "Path": "/home/shidash/Data/versions_test",
+  "Index Name": "linkedin_data_versions",
   "Dataset Name": "LinkedIn",
   "Ignore Dir Import Ext": "_terms.json",
   "Sort Field": "",
