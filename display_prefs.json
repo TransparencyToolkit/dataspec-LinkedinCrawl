@@ -8,9 +8,13 @@
     "certifications",
     "current",
     "type",
-      "dataset_name",
-      "doc_modified"
-	],
+    "dataset_name",
+    "doc_modified"
+  ],
+    "Merge Categorical": [
+	"skills",
+	"dataset_name"
+    ],
   "Searchable": [
     "name",
     "company",
