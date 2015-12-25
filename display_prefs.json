@@ -8,12 +8,15 @@
     "certifications",
     "current",
     "type",
-    "dataset_name",
-    "doc_modified"
+    "search_terms",
+      "doc_modified",
+      "doc_source",
+      "tools_mentioned"
   ],
     "Merge Categorical": [
 	"skills",
-	"dataset_name"
+	"search_terms",
+	"tools_mentioned"
     ],
   "Searchable": [
     "name",
@@ -27,7 +30,10 @@
     "description",
     "skills",
     "certifications",
-    "type"
+      "type",
+      "doc_modified",
+      "doc_source",
+      "tools_mentioned"
 	],
   "In Search Results": [
     "name",
@@ -50,8 +56,10 @@
     "timestamp",
     "degree",
       "score",
-      "dataset_name",
-      "doc_modified"
+      "search_terms",
+      "doc_modified",
+      "doc_source",
+      "tools_mentioned"
 	],
   "In Search Results by Default": [
     "name",
@@ -64,8 +72,10 @@
     "industry",
     "description",
       "skills",
-      "dataset_name",
-      "doc_modified"
+      "doc_source",
+      "doc_modified",
+      "tools_mentioned",
+      "search_terms"
   ],
   "On Doc Page": [
     "name",
@@ -93,8 +103,10 @@
     "timestamp",
     "degree",
       "score",
-      "dataset_name",
-      "doc_modified"
+      "search_terms",
+      "doc_modified",
+      "doc_source",
+      "tools_mentioned"
   ],
   "Item Field": [
     "company",
@@ -107,7 +119,8 @@
     "type",
     "company_size",
     "address",
-    "founded"
+      "founded",
+      "tools_mentioned"
   ],
   "Truncate Text": [
   	"doc_text"
