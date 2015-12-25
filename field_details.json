@@ -1,9 +1,9 @@
 [
   {
-    "Field Name": "name",
+    "Field Name": "full_name",
     "Human Readable Name": "Name",
     "Type": "String",
-    "Form Params": "name",
+    "Form Params": "full_name",
     "Location": "0",
     "Display Type": "Title",
     "Icon": ""
@@ -95,15 +95,6 @@
     "Form Params": "skills",
     "Location": "9",
     "Icon": "work"
-  },{
-    "Field Name": "certifications",
-    "Human Readable Name": "Certifications",
-    "Type": "String",
-    "Display Type": "Category",
-    "Mapping": "english",
-    "Form Params": "certifications",
-    "Location": "11",
-    "Icon": "certificate"
   },{
     "Field Name": "picture",
     "Human Readable Name": "Picture",

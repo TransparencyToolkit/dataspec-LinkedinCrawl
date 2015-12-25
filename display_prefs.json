@@ -19,7 +19,7 @@
 	"tools_mentioned"
     ],
   "Searchable": [
-    "name",
+    "full_name",
     "company",
     "title",
     "start_date",
@@ -36,7 +36,7 @@
       "tools_mentioned"
 	],
   "In Search Results": [
-    "name",
+    "full_name",
     "company",
     "title",
     "start_date",
@@ -62,7 +62,7 @@
       "tools_mentioned"
 	],
   "In Search Results by Default": [
-    "name",
+    "full_name",
     "company",
     "title",
     "start_date",
@@ -78,7 +78,7 @@
       "search_terms"
   ],
   "On Doc Page": [
-    "name",
+    "full_name",
     "company",
     "title",
     "start_date",
