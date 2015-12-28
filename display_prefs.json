@@ -120,7 +120,8 @@
     "company_size",
     "address",
       "founded",
-      "tools_mentioned"
+      "tools_mentioned",
+      "doc_modified"
   ],
   "Truncate Text": [
   	"doc_text"
