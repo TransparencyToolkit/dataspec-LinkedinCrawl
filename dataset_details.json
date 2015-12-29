@@ -1,6 +1,6 @@
 {
   "Path Type": "Directory",
-  "Path": "/home/shidash/Data/processed_test_data",
+  "Path": "/home/shidash/Data/processed_version_error",
   "Index Name": "linkedin_data_versions",
   "Dataset Name": "LinkedIn",
   "Ignore Dir Import Ext": "_terms.json",
