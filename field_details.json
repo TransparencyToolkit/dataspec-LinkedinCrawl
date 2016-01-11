@@ -77,6 +77,17 @@
     "Location": "7",
     "Icon": "industry"
   },{
+      "Field Name": "summary",
+      "Human Readable Name": "Summary",
+      "Type": "String",
+      "Display Type": "Description",
+      "Mapping": "english",
+      "Form Params": "summary",
+      "Location": "20",
+      "Truncate": "200",
+      "Icon": ""
+  },
+    {
     "Field Name": "description",
     "Human Readable Name": "Description",
     "Type": "String",
