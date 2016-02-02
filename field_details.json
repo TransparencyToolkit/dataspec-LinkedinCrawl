@@ -57,7 +57,7 @@
     "Mapping": "english",
     "Form Params": "location",
     "Location": "5",
-    "Icon": "countries"
+    "Icon": "geopoint"
   },{
     "Field Name": "area",
     "Human Readable Name": "Area",
@@ -247,7 +247,7 @@
       "Mapping": "not_analyzed",
       "Form Params": "search_terms",
       "Location": "28",
-      "Icon": "document-topic"
+      "Icon": "terms"
   },
     {
 	"Field Name": "doc_modified",
@@ -257,7 +257,7 @@
 	"Mapping": "not_analyzed",
 	"Form Params": "doc_modified",
 	"Location": "29",
-	"Icon": "document-topic"
+	"Icon": "modified"
     },
     {
 	"Field Name": "doc_source",
@@ -267,7 +267,7 @@
 	"Mapping": "not_analyzed",
 	"Form Params": "doc_source",
 	"Location": "30",
-	"Icon": "document-topic"
+	"Icon": "sources"
     },
     {
 	"Field Name": "tools_mentioned",
@@ -279,5 +279,5 @@
 	"Location": "31",
 	"Icon": "document-topic"
     }
-    
+
 ]
