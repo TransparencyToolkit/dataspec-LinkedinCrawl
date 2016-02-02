@@ -75,7 +75,7 @@
     "Mapping": "english",
     "Form Params": "industry",
     "Location": "7",
-    "Icon": "industry"
+    "Icon": "progress"
   },{
       "Field Name": "summary",
       "Human Readable Name": "Summary",
@@ -248,36 +248,32 @@
       "Form Params": "search_terms",
       "Location": "28",
       "Icon": "terms"
-  },
-    {
-	"Field Name": "doc_modified",
-	"Human Readable Name": "Modified?",
-	"Type": "String",
-	"Display Type": "Category",
-	"Mapping": "not_analyzed",
-	"Form Params": "doc_modified",
-	"Location": "29",
-	"Icon": "modified"
-    },
-    {
-	"Field Name": "doc_source",
-	"Human Readable Name": "Data Source",
-	"Type": "String",
-	"Display Type": "Category",
-	"Mapping": "not_analyzed",
-	"Form Params": "doc_source",
-	"Location": "30",
-	"Icon": "sources"
-    },
-    {
-	"Field Name": "tools_mentioned",
-	"Human Readable Name": "Tools Mentioned",
-	"Type": "String",
-	"Display Type": "Category",
-	"Mapping": "not_analyzed",
-	"Form Params": "tools_mentioned",
-	"Location": "31",
-	"Icon": "document-topic"
-    }
-
+  },{
+	  "Field Name": "doc_modified",
+	  "Human Readable Name": "Modified?",
+	  "Type": "String",
+	  "Display Type": "Category",
+	  "Mapping": "not_analyzed",
+	  "Form Params": "doc_modified",
+	  "Location": "29",
+	  "Icon": "modified"
+  },{
+  	"Field Name": "doc_source",
+  	"Human Readable Name": "Data Source",
+  	"Type": "String",
+  	"Display Type": "Category",
+  	"Mapping": "not_analyzed",
+  	"Form Params": "doc_source",
+  	"Location": "30",
+  	"Icon": "sources"
+  },{
+  	"Field Name": "tools_mentioned",
+  	"Human Readable Name": "Tools Mentioned",
+  	"Type": "String",
+  	"Display Type": "Category",
+  	"Mapping": "not_analyzed",
+  	"Form Params": "tools_mentioned",
+  	"Location": "31",
+  	"Icon": "survey"
+  }
 ]
