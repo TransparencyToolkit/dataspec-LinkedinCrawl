@@ -1,6 +1,6 @@
 {
   "Path Type": "Directory",
-  "Path": "/home/shidash/Data/change_test",
+  "Path": "/home/user/Data/ICWATCH/processed_test_data",
   "Index Name": "linkedin_data_versions",
   "Dataset Name": "LinkedIn",
   "Ignore Dir Import Ext": "_terms.json",
