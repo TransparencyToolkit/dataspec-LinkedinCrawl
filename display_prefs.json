@@ -11,11 +11,15 @@
     "search_terms",
       "doc_modified",
       "doc_source",
-      "tools_mentioned"
+      "tools_mentioned",
+      "dataset_name",
+      "overall_tag"
   ],
     "Merge Categorical": [
 	"skills",
 	"search_terms",
+	"dataset_name",
+	"overall_tag",
 	"tools_mentioned"
     ],
   "Searchable": [
@@ -61,7 +65,9 @@
       "doc_modified",
       "doc_source",
       "tools_mentioned",
-      "summary"
+      "summary",
+      "dataset_name",
+      "overall_tag"
 	],
   "In Search Results by Default": [
     "full_name",
@@ -78,7 +84,9 @@
       "doc_modified",
       "tools_mentioned",
       "search_terms",
-      "summary"
+      "summary",
+      "dataset_name",
+      "overall_tag"
   ],
   "On Doc Page": [
     "full_name",
@@ -110,7 +118,9 @@
       "doc_modified",
       "doc_source",
       "tools_mentioned",
-      "summary"
+      "summary",
+      "dataset_name",
+      "overall_tag"
   ],
   "Item Field": [
     "company",

@@ -3,7 +3,7 @@
   "Ignore List": "",
   "ID Field": "profile_url",
   "Secondary ID": ["company", "title", "start_date"],
-    "Deduplicate Ignore": ["timestamp", "categories", "dataset_name", "search_terms", "search_terms_facet", "dataset_name_facet", "summary", "score", "degree", "doc_modified", "doc_modified_facet", "updated_at", "groups", "related_people", "tools_mentioned", "tools_mentioned_facet", "doc_source", "doc_source_facet", "end_date", "profile_url", "url", "website", "type", "type_facet", "company_size", "address", "founded", "picture", "interests", "education", "related_people", "causes", "languages", "linkedin_company_url", "websites", "skills"],
+    "Deduplicate Ignore": ["timestamp", "categories", "dataset_name", "search_terms", "search_terms_facet", "dataset_name_facet", "summary", "score", "degree", "doc_modified", "doc_modified_facet", "updated_at", "groups", "related_people", "tools_mentioned", "tools_mentioned_facet", "doc_source", "doc_source_facet", "end_date", "profile_url", "url", "website", "type", "type_facet", "company_size", "address", "founded", "picture", "interests", "education", "related_people", "causes", "languages", "linkedin_company_url", "websites", "skills", "overall_tag", "overall_tag_facet"],
     "Deduplicate Prioritize": "timestamp",
   "Get ID After": "linkedin.com/pub"
 }
