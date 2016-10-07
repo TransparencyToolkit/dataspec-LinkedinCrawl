@@ -248,7 +248,7 @@
       "Form Params": "search_terms",
       "Location": "28",
       "Icon": "terms"
-  },
+  },{
     "Field Name": "dataset_name",
     "Human Readable Name": "Collection",
     "Type": "String",
@@ -257,7 +257,6 @@
     "Form Params": "dataset_name",
     "Location": "27",
     "Icon": "document-topic"
-
 },
 {
     "Field Name": "overall_tag",
