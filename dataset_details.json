@@ -1,7 +1,7 @@
 {
   "Path Type": "Directory",
   "Path": "/home/user/Data/ICWATCH/processed_test_data",
-  "Index Name": "linkedin_data_harvester",
+  "Index Name": "linkedin_data_harvester3",
   "Dataset Name": "LinkedIn",
   "Ignore Dir Import Ext": "_terms.json",
   "Sort Field": "",

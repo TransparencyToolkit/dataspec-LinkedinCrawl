@@ -277,12 +277,12 @@
 	  "Location": "29",
 	  "Icon": "modified"
   },{
-  	"Field Name": "doc_source",
+  	"Field Name": "data_source",
   	"Human Readable Name": "Data Source",
   	"Type": "String",
   	"Display Type": "Category",
   	"Mapping": "not_analyzed",
-  	"Form Params": "doc_source",
+  	"Form Params": "data_source",
   	"Location": "30",
   	"Icon": "sources"
   },{
